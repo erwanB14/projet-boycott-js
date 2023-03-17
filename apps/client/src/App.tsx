@@ -6,9 +6,7 @@ function App() {
   return (
     <>
       <img src={reactLogo} className="logo react" alt="React logo" />
-      <Heading>
-        ceci a ete fais grace a chatgpt mais il ne faut pas le dire a qu3nt1
-      </Heading>
+      <Heading>cbon</Heading>
     </>
   );
 }
